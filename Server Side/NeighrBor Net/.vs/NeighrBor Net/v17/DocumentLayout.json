@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\controllers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:controllers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250907174101_add user data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250907174101_add user data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\entities\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:entities\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\dbcontext\\neighbornetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:dbcontext\\neighbornetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250905193132_add image in user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250905193132_add image in user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250904193107_changings inpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250904193107_changings inpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250904193107_changings inpost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250904193107_changings inpost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250904192350_changings post 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250904192350_changings post 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\neighbornetdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\neighbornetdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902190619_add tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250902190619_add tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250901172616_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250901172616_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250902190717_add tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250902190717_add tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250902173313_caditin of coumnsin u .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250902173313_caditin of coumnsin u .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250904184234_changings in post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250904184234_changings in post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250905191425_add type in post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250905191425_add type in post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250906174334_add nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250906174334_add nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250906174254_add detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250906174254_add detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250906174148_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250906174148_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|f:\\cs\\neighbournet\\server side\\neighrbor net\\migrations\\20250906174022_add commenting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D901D-417E-4834-8A97-6B06E88AF0E7}|NeighrBor Net.csproj|solutionrelative:migrations\\20250906174022_add commenting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250907174101_add user data.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250907174101_add user data.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250907174101_add user data.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250907174101_add user data.cs",
+              "RelativeToolTip": "Migrations\\20250907174101_add user data.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:41:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250906174334_add nullable.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174334_add nullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906174334_add nullable.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174334_add nullable.cs",
+              "RelativeToolTip": "Migrations\\20250906174334_add nullable.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:43:34.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250906174254_add detail.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174254_add detail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906174254_add detail.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174254_add detail.cs",
+              "RelativeToolTip": "Migrations\\20250906174254_add detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:42:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250906174148_comment.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174148_comment.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906174148_comment.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174148_comment.cs",
+              "RelativeToolTip": "Migrations\\20250906174148_comment.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:41:48.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250906174022_add commenting.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174022_add commenting.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906174022_add commenting.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250906174022_add commenting.cs",
+              "RelativeToolTip": "Migrations\\20250906174022_add commenting.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:40:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\Comments.cs",
+              "RelativeDocumentMoniker": "Entities\\Comments.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\Comments.cs",
+              "RelativeToolTip": "Entities\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:38:15.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250905193132_add image in user.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250905193132_add image in user.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250905193132_add image in user.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250905193132_add image in user.cs",
+              "RelativeToolTip": "Migrations\\20250905193132_add image in user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:31:32.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250905191425_add type in post.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250905191425_add type in post.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250905191425_add type in post.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250905191425_add type in post.cs",
+              "RelativeToolTip": "Migrations\\20250905191425_add type in post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:14:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:02:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NeighBorNetDBModelSnapshot.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\NeighBorNetDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\NeighBorNetDBModelSnapshot.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\NeighBorNetDBModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\NeighBorNetDBModelSnapshot.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:32:39.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250904193107_changings inpost.Designer.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904193107_changings inpost.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250904193107_changings inpost.Designer.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904193107_changings inpost.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250904193107_changings inpost.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:32:20.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250904193107_changings inpost.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904193107_changings inpost.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250904193107_changings inpost.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904193107_changings inpost.cs",
+              "RelativeToolTip": "Migrations\\20250904193107_changings inpost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:31:08.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250904192350_changings post 2.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904192350_changings post 2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250904192350_changings post 2.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904192350_changings post 2.cs",
+              "RelativeToolTip": "Migrations\\20250904192350_changings post 2.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:23:50.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250904184234_changings in post.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904184234_changings in post.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250904184234_changings in post.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250904184234_changings in post.cs",
+              "RelativeToolTip": "Migrations\\20250904184234_changings in post.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:42:34.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwHYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:25:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250902190717_add tables.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902190717_add tables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250902190717_add tables.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902190717_add tables.cs",
+              "RelativeToolTip": "Migrations\\20250902190717_add tables.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:07:17.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250902190619_add tables.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902190619_add tables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250902190619_add tables.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902190619_add tables.cs",
+              "RelativeToolTip": "Migrations\\20250902190619_add tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:06:19.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Location.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "Entities\\Location.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\Location.cs",
+              "RelativeToolTip": "Entities\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:48:05.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Entities\\Post.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\Post.cs",
+              "RelativeToolTip": "Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:44:55.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250902173313_caditin of coumnsin U .cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902173313_caditin of coumnsin U .cs",
+              "RelativeDocumentMoniker": "Migrations\\20250902173313_caditin of coumnsin U .cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250902173313_caditin of coumnsin U .cs",
+              "RelativeToolTip": "Migrations\\20250902173313_caditin of coumnsin U .cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:33:13.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250901172616_first.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250901172616_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250901172616_first.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Migrations\\20250901172616_first.cs",
+              "RelativeToolTip": "Migrations\\20250901172616_first.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:26:16.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NeighBorNetDB.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\DBContext\\NeighBorNetDB.cs",
+              "RelativeDocumentMoniker": "DBContext\\NeighBorNetDB.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\DBContext\\NeighBorNetDB.cs",
+              "RelativeToolTip": "DBContext\\NeighBorNetDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:22:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:27:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Controllers\\JwtService.cs",
+              "RelativeDocumentMoniker": "Controllers\\JwtService.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Controllers\\JwtService.cs",
+              "RelativeToolTip": "Controllers\\JwtService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:25:00.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:22:27.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T11:20:56.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:08:40.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

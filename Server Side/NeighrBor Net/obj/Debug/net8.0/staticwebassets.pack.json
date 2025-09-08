@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\069bd9ac-9c36-4ddf-855a-a73d491cc7bf.png",
+      "PackagePath": "staticwebassets\\uploads\\069bd9ac-9c36-4ddf-855a-a73d491cc7bf.png"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\7f28b77f-78ce-49fb-9682-ee6b5594f712.png",
+      "PackagePath": "staticwebassets\\uploads\\7f28b77f-78ce-49fb-9682-ee6b5594f712.png"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\8ff60aeb-99df-475b-a8c1-1d7b8e9bd483.png",
+      "PackagePath": "staticwebassets\\uploads\\8ff60aeb-99df-475b-a8c1-1d7b8e9bd483.png"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\93552c02-a417-49ce-8bc8-ceced1299826.png",
+      "PackagePath": "staticwebassets\\uploads\\93552c02-a417-49ce-8bc8-ceced1299826.png"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\9c56227f-6420-403b-ac32-a5132584f517.png",
+      "PackagePath": "staticwebassets\\uploads\\9c56227f-6420-403b-ac32-a5132584f517.png"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\WhatsApp Image 2025-09-06 at 00.27.58_d3e52319.jpg",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp Image 2025-09-06 at 00.27.58_d3e52319.jpg"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\a43ced2d-eb66-42b9-8e64-83ca9062e256.png",
+      "PackagePath": "staticwebassets\\uploads\\a43ced2d-eb66-42b9-8e64-83ca9062e256.png"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\b88c135b-cd1a-4941-99f9-e33153f6879d.webp",
+      "PackagePath": "staticwebassets\\uploads\\b88c135b-cd1a-4941-99f9-e33153f6879d.webp"
+    },
+    {
+      "Id": "F:\\CS\\NeighBourNet\\Server Side\\NeighrBor Net\\wwwroot\\uploads\\cad030e8-212c-48c6-9723-9034996b5313.png",
+      "PackagePath": "staticwebassets\\uploads\\cad030e8-212c-48c6-9723-9034996b5313.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NeighrBor Net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NeighrBor Net.props",
+      "PackagePath": "build\\NeighrBor Net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NeighrBor Net.props",
+      "PackagePath": "buildMultiTargeting\\NeighrBor Net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NeighrBor Net.props",
+      "PackagePath": "buildTransitive\\NeighrBor Net.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
