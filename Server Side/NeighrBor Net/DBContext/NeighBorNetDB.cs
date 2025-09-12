@@ -17,6 +17,7 @@ namespace NeighrBor_Net.DBContext
         public DbSet<Location> Locations { get; set; }
         public DbSet<Comments> Coments { get; set; }
         public DbSet<BusinessProfile> BBusinessProfile { get; set; }
+        public DbSet<Market> Markets { get; set; }
 
     }
 }

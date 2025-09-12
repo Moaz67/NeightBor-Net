@@ -27,6 +27,8 @@ namespace NeighrBor_Net.Entities
         public string? Description { get; set; }
         public long? LocationId { get; set; }
         public Location? Location { get; set; }
+        public long Likes { get; set; }
+        public long Dislikes { get; set; }
     }
     public enum Roles
     {
